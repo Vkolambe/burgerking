@@ -1,0 +1,26 @@
+/* a:hover{
+    background-color:darksalmon;
+}
+.d-flex{
+    margin:10px;
+} */
+.navbar a{
+   font-size: 19px;
+
+   font-weight: bold;
+}
+
+
+/* .card-img-top:hover{
+    background-color: brown;
+    width:100px;
+}
+.card-title:hover{
+    background-color:lightblue;
+    
+} */
+
+.btn-success{
+    background-color: #F79f19;
+    color: white;
+}
